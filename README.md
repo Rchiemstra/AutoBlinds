@@ -4,7 +4,10 @@ AutoBlinds is a small device that automates the opening and closing of blinds an
 ## Problem 
 Each window blind is unique, as seen in the image alongside. Therefore, this project will focus solely on the type of blind depicted in Figure B. Specifically, the project aims to automate the opening and closing of this type of blind. Note that the device will not lift or move the blind sideways - it will only open and close it.
 
+### Figure A
 <img src="doc\media\V2\problem\luxaflex_A.jpg" width="%25" height="%25" /></img>
+
+### Figure B
 <img src="doc\media\V2\problem\luxaflex_B.jpg" width="%25" height="%25" /></img>
 
 
