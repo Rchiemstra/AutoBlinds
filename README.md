@@ -3,8 +3,10 @@ AutoBlinds is a small device that automates the opening and closing of blinds an
 
 ## AutoBlinds V2
 
-![AutoBlinds V2](doc\media\V2\vid\Luxaflex1.gif)
 
+### AutoBlinds V2![Luxaflex1](doc\media\V2\vid\Luxaflex1.gif)
+
+​
 <img src="doc\media\V2\result\20190625_192517-1024x768.jpg" width="480" height="360" /></img>
 <img src="doc\media\V2\result\20190625_192539-1024x768.jpg" width="480" height="360" /></img>
 <img src="doc\media\V2\result\20191009_185437-1024x768.jpg" width="480" height="360" /></img>
