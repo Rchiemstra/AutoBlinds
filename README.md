@@ -2,9 +2,7 @@
 AutoBlinds is a small device that automates the opening and closing of blinds and similar systems. It eliminates the need for manually opening and closing blinds, making it convenient for users. The device uses a light sensor to detect whether it's day or night and will open or close the blinds accordingly. It closes the blinds at night to provide privacy and opens them during the day to let sunlight in. This project can be a great starting point for creating an affordable and easy-to-use solution for automating blinds in homes and offices.
 
 ## AutoBlinds V2
-
-
-### AutoBlinds V2![Luxaflex1](doc\media\V2\vid\Luxaflex1.gif)
+![Luxaflex1](https://user-images.githubusercontent.com/39635305/233206197-9ea610a1-c563-46e5-b081-66641bb979e1.gif)
 
 ​
 <img src="doc\media\V2\result\20190625_192517-1024x768.jpg" width="480" height="360" /></img>
@@ -27,9 +25,8 @@ This is the hanging piece of my window blind that is typically manually turned t
 <img src="doc\media\V2\measurements\20190507_171827-1024x498.jpg" width="512" height="249" /></img>
 
 ## 3D designs
-
-![](doc\media\V2\vid\Ontwerp.gif)
-![](doc\media\V2\vid\Ontwerp-koppelstuk.gif)
+![Ontwerp](https://user-images.githubusercontent.com/39635305/233206224-aad267ef-51a2-4f21-a4b0-9107f76255ce.gif)
+![Ontwerp-koppelstuk](https://user-images.githubusercontent.com/39635305/233206239-64f7d09e-6f9f-4205-b99a-18095f3074d9.gif)
 
 ## Paper prototyping
 
