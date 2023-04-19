@@ -27,13 +27,13 @@ This is the hanging piece of my window blind that is typically manually turned t
 ## 3D designs
 ![Ontwerp](https://user-images.githubusercontent.com/39635305/233206224-aad267ef-51a2-4f21-a4b0-9107f76255ce.gif)
 ![Ontwerp-koppelstuk](https://user-images.githubusercontent.com/39635305/233206239-64f7d09e-6f9f-4205-b99a-18095f3074d9.gif)
+<img src="doc\media\V2\POC\image2019-5-28_19-22-13.png" width="50%" height="50%" /></img>
 
 ## Paper prototyping
 
 <img src="doc\media\V2\POC\20190514_194701-1024x498.jpg" width="512" height="249" /></img>
 <img src="doc\media\V2\POC\20190514_204135-1024x498.jpg" width="512" height="249" /></img>
 <img src="doc\media\V2\POC\20190514_204138-1024x498.jpg" width="512" height="249" /></img>
-<img src="doc\media\V2\POC\image2019-5-28_19-22-13.png" width="512" height="249" /></img>
 
 <img src="doc\media\V2\POC\20190514_194510-1-498x1024.jpg" width="249" height="512" /></img>
 
